@@ -1,0 +1,63 @@
+<!-- login.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login Page</title>
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Mogo Store</h1>
+    </header>
+
+    <!-- Main Content -->
+    <main>
+
+        <!-- Login Section -->
+        <section>
+
+            <h2>Login Page</h2>
+
+            <!-- Form -->
+            <form action="menu.html">
+
+                <div>
+                    <label for="email">Email</label>
+                    <br>
+                    <input type="email" id="email" placeholder="Enter Email" required>
+                </div>
+
+                <br>
+
+                <div>
+                    <label for="password">Password</label>
+                    <br>
+                    <input type="password" id="password" placeholder="Enter Password" required>
+                </div>
+
+                <br>
+
+                <button type="submit">
+                    Login
+                </button>
+
+            </form>
+
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2026 Mogo Store</p>
+    </footer>
+
+</body>
+
+</html>
