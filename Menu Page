@@ -1,0 +1,65 @@
+<!-- menu.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu Page</title>
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+        <h1>Mogo Store</h1>
+    </header>
+
+    <!-- Main Layout -->
+    <main>
+
+        <!-- Side Navbar -->
+        <aside>
+
+            <nav>
+
+                <h2>Side Navbar</h2>
+
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Products</a></li>
+                    <li><a href="#">Cart</a></li>
+                    <li><a href="#">Orders</a></li>
+                    <li><a href="login.html">Logout</a></li>
+                </ul>
+
+            </nav>
+
+        </aside>
+
+        <!-- Main Content -->
+        <section>
+
+            <article>
+
+                <h2>Homepage</h2>
+
+                <p>
+                    Welcome to Mogo Store Homepage.
+                </p>
+
+            </article>
+
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2026 Mogo Store</p>
+    </footer>
+
+</body>
+
+</html>
